@@ -10,7 +10,7 @@ freshSnow = random.randint(0, 24)
 timeOfDay = None
 
 
-
+#Try adding functions or sections of code from a different Python file
 
 
 # Check if the time of day is within the valid range
